@@ -14,10 +14,10 @@ Recipe
 
 
 **Hey ((site.name}}**
-[Click Here]({{site.googleURL}})
+[Click Here]({{site.www.google.com}})
 
-{% for item in site.data.Passengers %}
-- {{item.Name}}, {{item.Age}}
+{% for item in site.data.Passengers%}
+{{item.Name}},{{item.Age}}
 {% endfor %}
 
 Heat oil and sauté the veg until the onion is transparent.
