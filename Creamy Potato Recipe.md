@@ -1,15 +1,19 @@
 
-[Click here to see Titanic ship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
 
 
 # Titanic survivors list
+
+
+[Click here to see Titanic ship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
 
 {% for item in site.data.Passengers%}
 {{item.Name}},{{item.Age}}
 {% endfor %}
 
 
-# Secret Ingredients
+# Creamy Potato Recipe
+
+## Ingredients
 2 medium potatoes, diced
 1 medium onion, diced
 2 tablespoons oil
