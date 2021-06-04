@@ -16,4 +16,19 @@ Titanice survivors list below
 {{item.Name}},{{item.Age}}
 {% endfor %}
 
-As you add available ingredients, SuperCook suggests recipes, updating results for each new item you include.
+# Creamy Potato Recipe
+
+## Ingredients
+2 medium potatoes, diced
+1 medium onion, diced
+2 tablespoons oil
+600 ml vegetable stock
+280 ml milk
+1 teaspoon dried herbs
+1 teaspoon paprika
+1/2 teaspoon caraway seed
+
+ - Heat oil and sauté the veg until the onion is transparent.
+ - Add remaining ingredients and bring to boil.
+ - Simmer, covered, for 20 minutes.
+ - Liquidise and thin with milk if desired.
