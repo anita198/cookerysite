@@ -1,3 +1,14 @@
+
+[Click here to see Titanic ship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
+
+
+Titanic survivors list
+
+{% for item in site.data.Passengers%}
+{{item.Name}},{{item.Age}}
+{% endfor %}
+
+
 Secret Ingredients
 2 medium potatoes, diced
 1 medium onion, diced
@@ -7,21 +18,6 @@ Secret Ingredients
 1 teaspoon dried herbs
 1 teaspoon paprika
 1/2 teaspoon caraway seed
-
-![pic](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
-
-[Titanic ship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
-
-
-Recipe
-
-
-**Hey ((site.name}}**
-[Click Here]({{site.www.google.com}})
-
-{% for item in site.data.Passengers%}
-{{item.Name}},{{item.Age}}
-{% endfor %}
 
 Heat oil and sauté the veg until the onion is transparent.
 Add remaining ingredients and bring to boil.
