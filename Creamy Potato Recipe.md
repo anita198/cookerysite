@@ -10,8 +10,8 @@
 {{item.Name}},{{item.Age}}
 {% endfor %}
 
-
-# Creamy Potato Recipe
+[Click here to see Titanic ship](site.Titanic)
+[Click here to see Titanic ship](site.Formatting)
 
 ## Ingredients
 2 medium potatoes, diced
