@@ -8,8 +8,8 @@ Author: Imauthor
 
 Start by selecting ingredients you already have on hand from several categories (such as meat, seasoning and dairy).
 
-{% for item in site.data.Passengers%}
-- {{item.period}}, {{item.place}}
+{% for item in site.data.Homepage%}
+- {{item.period}},{{item.place}}
 {%endfor%}
 
 As you add available ingredients, SuperCook suggests recipes, updating results for each new item you include.
