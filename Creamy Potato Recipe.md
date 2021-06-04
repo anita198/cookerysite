@@ -10,14 +10,11 @@
 {{item.Name}},{{item.Age}}
 {% endfor %}
 
+# Link to Other Pages
 
-
-
-
-[Click here1](site.HomePage)
-
-[Click here2](site.Formatting)
-
+[Link to the Homepage page](Homepage.md)
+[Link to the Formatting page](Formatting.md)
+[Link to the Formatting page](Titanic.md)
 
 
 # Creamy Potato Recipe
