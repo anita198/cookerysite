@@ -8,13 +8,13 @@ Secret Ingredients
 1 teaspoon paprika
 1/2 teaspoon caraway seed
 
-![Reipe picture](![pic](https://https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
+![Recipe picture](![pic](https://https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
 
 Recipe
 
 {% for item in site.data.Passengers%}
-- {{item.period}}, {{item.place}}
-{%enfor%}
+- {{item.Name}}, {{item.Age}}
+{%endfor%}
 
 Heat oil and sauté the veg until the onion is transparent.
 Add remaining ingredients and bring to boil.
