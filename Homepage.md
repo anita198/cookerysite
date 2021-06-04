@@ -10,12 +10,6 @@ Author: Imauthor
 
 Start by selecting ingredients you already have on hand from several categories (such as meat, seasoning and dairy).
 
-Titanice survivors list below
-
-{% for item in site.data.Passengers%}
-{{item.Name}},{{item.Age}}
-{% endfor %}
-
 # Creamy Potato Recipe
 
 ## Ingredients
