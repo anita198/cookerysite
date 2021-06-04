@@ -8,7 +8,7 @@ Secret Ingredients
 1 teaspoon paprika
 1/2 teaspoon caraway seed
 
-!Reipe picture](![pic](https://https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
+![Reipe picture](![pic](https://https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1200px-RMS_Titanic_3.jpg)
 
 Recipe
 
