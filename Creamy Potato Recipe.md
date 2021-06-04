@@ -10,8 +10,17 @@
 {{item.Name}},{{item.Age}}
 {% endfor %}
 
-[Click here to see Titanic ship](site.Titanic)
-[Click here to see Titanic ship](site.Formatting)
+
+
+
+
+[Click here1](site.HomePage)
+
+[Click here2](site.Formatting)
+
+
+
+# Creamy Potato Recipe
 
 ## Ingredients
 2 medium potatoes, diced
