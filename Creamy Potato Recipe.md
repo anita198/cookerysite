@@ -12,8 +12,8 @@
 
 # Link to Other Pages
 
- - [Link to the Formatting page](Formatting.md)
- - [Link to the Homepage page](Homepage.md)
+[Link to the Formatting page](Formatting.md)
+[Link to the Homepage page](Homepage.md)
  - [Link to the Formatting page](Titanic.md)
 
 
